@@ -5,6 +5,7 @@
 > **AI Architecture**: Powered by the **Gemini 3.5 Flash** Model with Server-Side Cognitive Handshakes.
 
 ---
+# Live Demo: https://ai.studio/apps/92332230-77da-4cad-953b-fc372e650f6a?fullscreenApplet=true
 
 ##  EXECUTIVE SUMMARY & INDUSTRIAL VALUE CAPTURE
 
