@@ -1,0 +1,6 @@
+{
+  "name": "INDUS AI",
+  "description": "Unified Industrial Knowledge Intelligence platform for engineering drawings, SOPs, maintenance reports, and operations manuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
