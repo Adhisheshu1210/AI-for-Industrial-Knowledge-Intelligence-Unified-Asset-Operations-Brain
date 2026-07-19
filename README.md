@@ -6,6 +6,7 @@
 
 ---
 # Live Demo: https://ai.studio/apps/92332230-77da-4cad-953b-fc372e650f6a?fullscreenApplet=true
+# Demo: https://www.youtube.com/watch?v=9WStyLdB0bE
 
 ##  EXECUTIVE SUMMARY & INDUSTRIAL VALUE CAPTURE
 
